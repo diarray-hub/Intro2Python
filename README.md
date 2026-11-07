@@ -12,7 +12,7 @@ Tout le contenu a été dévéloppé en **Décembre 2023** et avait jusque là �
 
 ## Contributions
 
-Si vous souhaitez contribuer à ce projet ou si vous avez des questions, n'hésitez pas à ouvrir une **issue**, à soumettre une **pull request**, ou à contacter directement l'auteur à l'adresse suivante : [yacoudiarra.wl@gmail.com](mailto:yacoudiarra.wl@gmail.com).
+Si vous souhaitez contribuer à ce projet ou si vous avez des questions, n'hésitez pas à ouvrir une **issue**, à soumettre une **pull request**, ou à contacter directement l'auteur à l'adresse suivante : yacoudiarra.wl AT gmail DOT com.
 
 ## License
 
